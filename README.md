@@ -71,7 +71,7 @@ O layout foi projetado para se adaptar a diferentes tamanhos de tela, garantindo
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Wesley Oliveira].
+Desenvolvido por Wesley Oliveira.
 
 ---
 Sinta-se à vontade para usar este projeto como referência, estudar ou adaptar para seus próprios experimentos!
